@@ -6,3 +6,4 @@ public class HotelFacadePattern {
         hotelFacade.vegRestaurant();
     }
 }
+
